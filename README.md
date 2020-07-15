@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer @biztrology remote work in Xi'an and Shangluo, Shaanxi, China 
+
 <!--
 **rongliangduan/rongliangduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
