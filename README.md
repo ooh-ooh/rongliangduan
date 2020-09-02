@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer @biztrology remote work in Xi'an and Shangluo, Shaanxi, China 
+I'm a software engineer @biztrology, work on [Lokobee](https://lokobee.com/) Backend,  remote in Xi'an and Shangluo, Shaanxi, China 
 
 📫 How to reach me: 
 
