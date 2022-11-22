@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a software engineer working at [Biztrology.Inc](https://biz.lokobee.com/), working on [Lokobee](https://lokobee.com/) and [myAdChain](https://myadchain.com) Backend,then working on IOS and [Android](https://play.google.com/store/apps/details?id=com.lokobee.biz.lokobee_ops),Remote work in ~~Xi'an(sometime)~~, most of the time in Zhen'an County, Shangluo, Shaanxi
+I am a software engineer at [Biztrology.Inc](https://biz.lokobee.com/), responsible for [Lokobee](https://lokobee.com/) and [myAdChain](https://myadchain.com) backend development,responsible for both IOS and [Android](https://play.google.com/store/apps/details?id=com.lokobee.biz.lokobee_ops) ,working remotely in ~~Xi'an(sometime)~~, most of the time in Zhen'an County, Shangluo, Shaanxi
+
 
 📫  How to reach me:
 
