@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A software engineer at [Biztrology.Inc](https://biz.lokobee.com/), remote working，mainly responsible for [Lokobee](https://lokobee.com/) and [myAdChain](https://maxcashback.ai) Back-end development, as well as [IOS](https://apps.apple.com/ca/app/myadchain-business/id6451084979) and [Android](https://play.google.com/store/apps/details?id=com.lokobee.biz.lokobee_ops) Merchant application development.
+Software engineer at [Biztrology.Inc](https://biz.lokobee.com/), remote working，mainly responsible for [Lokobee](https://lokobee.com/) and [myAdChain](https://maxcashback.ai) Back-end development, as well as [IOS](https://apps.apple.com/ca/app/myadchain-business/id6451084979) and [Android](https://play.google.com/store/apps/details?id=com.lokobee.biz.lokobee_ops) Merchant application development.
 
 📫  How to reach me:
 
